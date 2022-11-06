@@ -20,6 +20,10 @@ Digital Marketing is very important course with this modern era of technology. Y
 
 4.) Plugins Installation (Internal and External Both)
 
+5.) Working with different Plugins on Industry Demand
+
+6.) Project Deployment
+
 ## Plugins
 a.) SmartSlider
 
