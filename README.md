@@ -7,7 +7,7 @@ Digital Marketing is very important course with this modern era of technology. Y
 # Course Structure
 [i. WordPress](#Wordpress)
 
-[ii. SEO (SEARCH ENGINE OPTIMAIZATION)](#SEARCH ENGINE OPTIMAIZATION)
+[ii. SEO (SEARCH ENGINE OPTIMAIZATION)](#SEO (SEARCH ENGINE OPTIMAIZATION))
 
 [iii. Social Media Marketing](https://link-url-here.org)
 
@@ -38,7 +38,7 @@ f.) Yoast SEO
 
 g.) ahref
 
-# SEARCH ENGINE OPTIMAIZATION
+# SEO (SEARCH ENGINE OPTIMAIZATION)
 SEO is the backbone of Digital Market. It's help developer and marketers to promote their product on Internet Media like Facebook , Google Buisness , Instgram etc
 
 ## Course Include
