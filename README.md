@@ -5,9 +5,9 @@ Digital Marketing is very important course with this modern era of technology. Y
 
 
 # Course Structure
-i) WordPress 
+[i. WordPress](https://link-url-here.org)
 
-ii) SEO
+[ii. SEO](https://link-url-here.org)
 
-iii) Social Media Marketing
+[iii. Social Media Marketing](https://link-url-here.org)
 
