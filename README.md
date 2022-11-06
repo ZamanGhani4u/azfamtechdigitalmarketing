@@ -7,7 +7,7 @@ Digital Marketing is very important course with this modern era of technology. Y
 # Course Structure
 [i. WordPress](#Wordpress)
 
-[ii. SEO (SEARCH ENGINE OPTIMAIZATION)](#SEO (SEARCH ENGINE OPTIMAIZATION))
+[ii. SEO (SEARCH ENGINE OPTIMAIZATION)](#SEARCH ENGINE OPTIMAIZATION)
 
 [iii. Social Media Marketing](https://link-url-here.org)
 
