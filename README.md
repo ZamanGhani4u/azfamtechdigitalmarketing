@@ -38,6 +38,11 @@ f.) Yoast SEO
 
 g.) ahref
 
+### Themes
+i.) StoreFront
+
+ii.) Astra (Theme Collections)
+
 # SEO
 SEO (Search Engine Optimaization) is the backbone of Digital Market. It's help developer and marketers to promote their product on Internet Media like Facebook , Google Buisness , Instgram etc
 
