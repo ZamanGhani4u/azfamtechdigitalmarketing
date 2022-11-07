@@ -9,7 +9,7 @@ Digital Marketing is very important course with this modern era of technology. Y
 
 [ii. SEO](#SEO)
 
-[iii. Social Media Marketing](https://link-url-here.org)
+[iii. Social Media Marketing](#SMM)
 
 # WordPress
 It is a complete CMS (CONTENT MANAGEMENT SYSTEM for building Dynamic , Attractive websites within few hours)
@@ -57,3 +57,15 @@ SEO (Search Engine Optimaization) is the backbone of Digital Market. It's help d
 8. Working with SEO tools (ahref , Moz , seositecheckup)
 9. Site Audit
 10. Content Writting
+
+# SMM
+Social Media Marketing is the process to market product according to Market.
+
+## Course Include
+1. Understanding Marketing Strategy
+2. Facebook Marketing (Meta Buisness Suite)
+3. Facebook Market (Ads , Boost , Campaign)
+4. Instagram Market (Sponsered Ads )
+5. Youtube Market (Types of Ads , Campaign on youtube)
+
+
