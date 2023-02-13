@@ -11,6 +11,8 @@ Digital Marketing is very important course with this modern era of technology. Y
 
 [iii. Social Media Marketing](#SMM)
 
+[iv. Shopify](#Shopify)
+
 # WordPress
 It is a complete CMS (CONTENT MANAGEMENT SYSTEM for building Dynamic , Attractive websites within few hours)
 
@@ -67,5 +69,15 @@ Social Media Marketing is the process to market product according to Market.
 3. Facebook Market (Ads , Boost , Campaign)
 4. Instagram Market (Sponsered Ads )
 5. Youtube Market (Types of Ads , Campaign on youtube)
+
+# Shopify
+Shopify is another CMS mostly used for online Buisness.
+
+## Course Include
+1. Understanding Shopify
+2. Shopify Basics
+3. Fundamentals of Shopify
+4. Ecommerece Online Store
+
 
 
